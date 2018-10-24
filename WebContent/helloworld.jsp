@@ -1,0 +1,6 @@
+<html>
+<body>
+<h3>Hello World of java!</h3>
+The time on the server is <%= new java.util.Date() %>   <!-- jsp expression -->
+</body>
+</html>
